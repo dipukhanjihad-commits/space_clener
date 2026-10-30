@@ -1,0 +1,13 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+node_modules
+dist
+build
+.next
+.cache
+.DS_Store
+Thumbs.db
